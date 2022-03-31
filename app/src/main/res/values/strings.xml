@@ -15,7 +15,7 @@
     <string name="dev_name">Manuel De la Cruz</string>
 
     <string name="created_by">Created by</string>
-    <string name="logo">Personal Weather</string>
+    <string name="logo">SunnyRainy</string>
     <string name="no_location_detected" translatable="false">Cant access to location. Make sure the location service is activated on your device.</string>
     <string name="permission_denied_explanation" translatable="false">Permission denied, is required to use this app.</string>
     <string name="permission_retionale" translatable="false">Location permission is required to use this app.</string>
