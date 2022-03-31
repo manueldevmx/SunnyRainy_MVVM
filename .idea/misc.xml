@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/ic_baseline_close_fullscreen.xml" value="0.348" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.221875" />
       </map>
     </option>
   </component>
